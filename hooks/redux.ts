@@ -1,0 +1,4 @@
+
+const ReduxSelector = () => {
+  return "selector"
+}
